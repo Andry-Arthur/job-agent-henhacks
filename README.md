@@ -33,6 +33,10 @@ We developed SwiftApply as a web platform using:
 - Optimizing AI agent performance across different job portals is crucial for scalability.
 - Users appreciate a balance between automation and control, preferring some customization in how applications are sent.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe263478-a82e-45a5-8d40-88aa56d4aeb1" width=300/>
+</p>
+
 ## What's next for SwiftApply
 - **AI Agent Optimization**: Fine-tune AI models for faster and more efficient job applications.
 - **Follow-Up Tracking**: Implement AI-driven email parsing to track application statuses and suggest next steps.
@@ -40,5 +44,4 @@ We developed SwiftApply as a web platform using:
 - **Smart Recommendations**: Enhance feedback reports to include personalized resume improvements and skill-building suggestions.
 
 SwiftApply aims to revolutionize job applications, making career-building effortless and intelligent!
-![bird 1](https://github.com/user-attachments/assets/fe263478-a82e-45a5-8d40-88aa56d4aeb1)
 
